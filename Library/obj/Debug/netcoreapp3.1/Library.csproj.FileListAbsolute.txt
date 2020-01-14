@@ -1,0 +1,11 @@
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Revature\John-Marquez-code-challenge-1\Library\Library\obj\Debug\netcoreapp3.1\Library.pdb
